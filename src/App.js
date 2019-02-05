@@ -19,6 +19,7 @@ class App extends Component {
           >
             Hi, there I'm John!
             Hallowed Be Thy name
+            Thy Kingdom come
           </a>
         </header>
       </div>
